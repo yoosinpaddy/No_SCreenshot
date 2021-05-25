@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FraudApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_listener_service">FraudApp</string>
+    <string name="voip_call_logs">Voip Call Logs</string>
+    <string name="voip_sms">Voip SMS Logs</string>
+    <string name="simple_sms">Simple SMS Logs</string>
+</resources>
